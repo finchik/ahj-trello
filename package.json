@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/valentin-panov/"
+    "url": "https://github.com/finch/"
   },
-  "author": "Valentin Panov <valentin.panov@me.com>",
+  "author": "Valentin Panov <fincv@me.com>",
   "license": "MIT",
   "dependencies": {
     "core-js": "^3.6.5"
